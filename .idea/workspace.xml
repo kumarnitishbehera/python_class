@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90cc2204-2d9b-4682-a6b8-aaf12fe1bd44" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Python_13oct2018_evenodd.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_13oct2018_evenodd.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,36 +14,47 @@
     <session id="2095886489">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="5" />
+          <entry key="py" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="5" />
+          <entry key="Python" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="1030" />
+          <entry key="py" value="2455" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="1030" />
+          <entry key="Python" value="2455" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python_13oct2018_evenodd.py">
+        <entry file="file://$PROJECT_DIR$/For_loop_print_even_odd.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/count_number_divisible_byuser_number.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
               <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
@@ -52,28 +63,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Max_of_aand_b.py">
+        <entry file="file://$PROJECT_DIR$/PrimeNumber_loop.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ManOF3Number.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+            <state>
+              <caret selection-end-line="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wordInTwoString.py">
+        <entry file="file://$PROJECT_DIR$/Prime_Number_while_loop.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="289">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -98,14 +100,22 @@
         <option value="$PROJECT_DIR$/Max_of_aand_b.py" />
         <option value="$PROJECT_DIR$/ManOF3Number.py" />
         <option value="$PROJECT_DIR$/wordInTwoString.py" />
+        <option value="$PROJECT_DIR$/While-Loop.py" />
+        <option value="$PROJECT_DIR$/Ifinite_whileloop.py" />
+        <option value="$PROJECT_DIR$/For_Loop.py" />
+        <option value="$PROJECT_DIR$/forr_loop_data.py" />
+        <option value="$PROJECT_DIR$/For_loop_print_even_odd.py" />
+        <option value="$PROJECT_DIR$/count_number_divisible_byuser_number.py" />
+        <option value="$PROJECT_DIR$/PrimeNumber_loop.py" />
+        <option value="$PROJECT_DIR$/Prime_Number_while_loop.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="85" />
     <option name="y" value="25" />
     <option name="width" value="1750" />
-    <option name="height" value="969" />
+    <option name="height" value="970" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -141,8 +151,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.wordInTwoString">
-    <configuration name="ManOF3Number" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Prime_Number_while_loop">
+    <configuration name="For_loop_print_even_odd" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_class" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -154,7 +164,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ManOF3Number.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/For_loop_print_even_odd.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -163,7 +173,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Max_of_aand_b" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="PrimeNumber_loop" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_class" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -175,7 +185,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Max_of_aand_b.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PrimeNumber_loop.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -184,7 +194,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Python_13oct2018_evenodd" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Prime_Number_while_loop" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_class" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -196,7 +206,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_13oct2018_evenodd.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Prime_Number_while_loop.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -205,7 +215,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="wordInTwoString" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="count_number_divisible_byuser_number" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_class" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -217,7 +227,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wordInTwoString.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/count_number_divisible_byuser_number.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="forr_loop_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_class" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/forr_loop_data.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -227,17 +258,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Python_13oct2018_evenodd" />
-      <item itemvalue="Python.Max_of_aand_b" />
-      <item itemvalue="Python.ManOF3Number" />
-      <item itemvalue="Python.wordInTwoString" />
+      <item itemvalue="Python.forr_loop_data" />
+      <item itemvalue="Python.For_loop_print_even_odd" />
+      <item itemvalue="Python.count_number_divisible_byuser_number" />
+      <item itemvalue="Python.PrimeNumber_loop" />
+      <item itemvalue="Python.Prime_Number_while_loop" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.wordInTwoString" />
-        <item itemvalue="Python.ManOF3Number" />
-        <item itemvalue="Python.Max_of_aand_b" />
-        <item itemvalue="Python.Python_13oct2018_evenodd" />
+        <item itemvalue="Python.Prime_Number_while_loop" />
+        <item itemvalue="Python.PrimeNumber_loop" />
+        <item itemvalue="Python.count_number_divisible_byuser_number" />
+        <item itemvalue="Python.For_loop_print_even_odd" />
+        <item itemvalue="Python.forr_loop_data" />
       </list>
     </recent_temporary>
   </component>
@@ -287,7 +320,7 @@
     <entry file="file://$PROJECT_DIR$/Python_13oct2018_evenodd.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
@@ -301,14 +334,70 @@
     <entry file="file://$PROJECT_DIR$/ManOF3Number.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wordInTwoString.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/While-Loop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="49" lean-forward="true" selection-end-line="1" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ifinite_whileloop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/For_Loop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
           <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/forr_loop_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/For_loop_print_even_odd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/count_number_divisible_byuser_number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PrimeNumber_loop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Prime_Number_while_loop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
