@@ -1,0 +1,1 @@
+internaly python use iterators
